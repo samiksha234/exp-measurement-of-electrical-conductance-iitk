@@ -13,7 +13,7 @@ F.	Conductivity meter<br>
 <img src="images/fig2.png" width="600" height="500"><br>
 <img src="images/fig3.png" width="600" height="500"><br><br>
 <img src="images/fig4.png" width="600" height="450"><br>
-<img src="images/fig5.png" width="600" height="450"><br>
+<img src="images/fig5.png" width="600" height="500"><br>
 <b>5.3. Procedure in laboratory</b><br>
 <img src="images/fig6.jpg"><br><br>
 <b>5.4.1 Determination of cell constant</b><br>
