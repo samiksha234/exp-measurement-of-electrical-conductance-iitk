@@ -2,7 +2,7 @@
 <br>
 Materials are usually classified as conductors, semiconductors, or insulators in terms of their behavior toward the flow of current. Conductors have very little resistance to the passage of current. Ohm’s law states that, <br>
 <br>
- V = i R &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;							(1)<br>
+ V = i R &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;								(1)<br>
 <br>
 where V is the potential, i is the current and R is the resistance. The resistance depends upon the nature and geometry of the conductor.<br>
 <br>
