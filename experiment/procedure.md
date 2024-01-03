@@ -33,10 +33,10 @@ The Y-axis intercept for NaCl, HCl and CH3COONa are 169960 mmho cm2 eqv-1, 45468
 The equivalent conductance of acetic acid at infinite dilution (Λ0) is given as,<br>
  Λ0 = Λ_0^CH3COONa+Λ_0^HCl-Λ_0^NaCl<br>
       = (135130+454680-169960) mmho cm2 eqv-1<br>
-      = 419850 mmho cm2 eqv-1 <br>
-<b>5.4.5 Determination of exact concentration of acetic acid solutions</b><br><br>
+      = 419850 mmho cm2 eqv-1 <br><br>
+<b>5.4.5 Determination of exact concentration of acetic acid solutions</b><br>
 <img src="images/fig12.png"><br><br>
-<b>5.4.6 Determination of dissociation constant of acetic acid by conductance measurement</b><br><br>
+<b>5.4.6 Determination of dissociation constant of acetic acid by conductance measurement</b><br>
 <img src="images/fig13.png"><br><br>
 <b>5.5. Procedure in simulator of the experiment</b><br><br>
 To be added based on the simulation<br><br>
