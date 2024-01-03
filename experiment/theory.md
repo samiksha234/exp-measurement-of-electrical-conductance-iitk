@@ -20,7 +20,7 @@ where c is the electrolyte concentration (moles cm-3). The equivalent conductanc
 <br>
 Kohlrausch proposed that when complete dissociation exists in infinite dilution, each ionic species migrates independently. The Λ0 value can be then considered to be the sum of equivalent ionic conductance at infinite dilution<br>
 
- Λ<sub>0</sub>= λ<sub>0</sub><sup>+</sup>λ<sub>0</sub><sup>-</sup> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(9)<br>
+ Λ<sub>0</sub>= λ<sub>0</sub><sup>+</sup>+λ<sub>0</sub><sup>-</sup> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(9)<br>
 <br>
 Kholrausch additivity law can be used to obtain Λ<sub>0</sub> for a weak electrolyte, which can be further connect to the degree of dissociation of the same.
 
