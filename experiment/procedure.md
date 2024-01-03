@@ -9,7 +9,7 @@ F.	Conductivity meter<br>
 <br>
 <b>5.2. Procedure in laboratory (diagram)</b><br>
 <br>
-<img src="images/fig1.1.png" width="600" height="450"><br><br><br>
+<img src="images/fig1.11.png" width="600" height="450"><br><br><br>
 <img src="images/fig2.png" width="600" height="500"><br>
 <img src="images/fig3.png" width="600" height="500"><br><br>
 <img src="images/fig4.png" width="600" height="450"><br>
