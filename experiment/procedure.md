@@ -27,7 +27,7 @@ Average cell constant = (1.19+1.13)/2 = 1.16 cm-1<br><br>
 <img src="images/fig9.png"><br><br>
 <b>5.4.4 Determination of equivalent conductance of CH3COONa at different concentrations</b><br><br>
 <img src="images/fig10.png"><br><br>
-<img src="images/fig11.jpg" width="400" height="400"><br>
+<img src="images/fig11.jpg" width="500" height="300"><br>
 Figure 1: Plot of equivalent conductance vs √C for NaCl, HCl and CH3COONa.<br><br>
 The Y-axis intercept for NaCl, HCl and CH3COONa are 169960 mmho cm2 eqv-1, 454680 mmho cm2 eqv-1, 135130 mmho cm2 eqv-1, respectively.
 The equivalent conductance of acetic acid at infinite dilution (Λ0) is given as,<br>
