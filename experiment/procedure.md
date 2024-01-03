@@ -16,6 +16,8 @@ F.	Conductivity meter<br>
 <img src="images/fig5.png" width="600" height="500"><br><br>
 <b>5.3. Procedure in laboratory</b><br><br>
 <img src="images/fig6.jpg" width="600" height="300"><br><br>
+<b>5.4. Data and the analysis</b><br><br>
+The experimental temperature is 26 ⁰C.<br><br>
 <b>5.4.1 Determination of cell constant</b><br>
 <img src="images/fig7.png"><br>
 Average cell constant = (1.19+1.13)/2 = 1.16 cm-1<br><br>
