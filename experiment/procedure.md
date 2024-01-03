@@ -37,7 +37,7 @@ The equivalent conductance of acetic acid at infinite dilution (Λ0) is given as
 <b>5.4.5 Determination of exact concentration of acetic acid solutions</b><br><br>
 <img src="images/fig12.png"><br><br>
 <b>5.4.6 Determination of dissociation constant of acetic acid by conductance measurement</b><br>
-<img src="images/fig13.png"><br><br>
+<img src="images/fig13.png" width="300"><br><br>
 <b>5.5. Procedure in simulator of the experiment</b><br><br>
 To be added based on the simulation<br><br>
 <b>6. Simulator</b><br><br>
