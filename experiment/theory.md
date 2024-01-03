@@ -6,7 +6,7 @@ Materials are usually classified as conductors, semiconductors, or insulators in
 <br>
 where V is the potential, i is the current and R is the resistance. The resistance depends upon the nature and geometry of the conductor.<br>
 <br>
- R= ρ  l/A				    		(2)<br>
+ R= ρ  l/A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)<br>
 <br>
 In the above equation, l is the distance, A is the area and ρ is the specific resistance. It is more convenient to focus attention on the conductance, L, which is inverse of the resistance, R, for when the conductor is in liquid state, and is expressed in mho or ohm-1. In terms of conductance equation (2) is written as<br>
 <br>
