@@ -8,7 +8,7 @@ E.	Beaker (250 mL)<br>
 F.	Conductivity meter<br>
 <br>
 <b>5.2. Procedure in laboratory (diagram)</b><br>
-<br><br><br>
+<br>
 <img src="images/fig1.png"><br><br><br><br>
 <img src="images/fig2.png"><br>
 <img src="images/fig3.png"><br><br><br>
