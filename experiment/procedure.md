@@ -34,7 +34,7 @@ The equivalent conductance of acetic acid at infinite dilution (Λ0) is given as
  Λ0 = Λ_0^CH3COONa+Λ_0^HCl-Λ_0^NaCl<br>
       = (135130+454680-169960) mmho cm2 eqv-1<br>
       = 419850 mmho cm2 eqv-1 <br><br>
-<b>5.4.5 Determination of exact concentration of acetic acid solutions</b><br>
+<b>5.4.5 Determination of exact concentration of acetic acid solutions</b><br><br>
 <img src="images/fig12.png"><br><br>
 <b>5.4.6 Determination of dissociation constant of acetic acid by conductance measurement</b><br>
 <img src="images/fig13.png"><br><br>
